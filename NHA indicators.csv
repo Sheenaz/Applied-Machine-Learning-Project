@@ -1,0 +1,323 @@
+﻿Countries,Indicators,,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+,,,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value
+Kenya,Current Health Expenditure (CHE) as % Gross Domestic Product (GDP),0,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,5
+Kenya,Current Health Expenditure (CHE) per Capita in US$,0,21,22,22,26,28,31,41,50,55,55,59,57,65,68,73,71,74,67,76,86,87,95
+Kenya,Health Capital Expenditure (HK) % Gross Domestic Product (GDP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Kenya,Capital Health Expenditure (Domestic Public) as % Gross Domestic Product (GDP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Capital Health Expenditure (External) as % Gross Domestic Product (GDP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Current Health Expenditure (CHE),Million NCU,"50,303","55,315","57,650","65,929","76,443","84,325","109,366","129,018","150,221","172,618","193,858","216,539","239,220","261,902","294,949","327,996","361,044","338,146","382,862","447,260","479,674","550,182"
+Kenya,Domestic General Government Health Expenditure (GGHE-D),Million NCU,"13,856","15,556","16,627","18,266","19,482","22,261","25,227","31,443","38,525","47,821","56,146","66,836","77,526","88,216","110,331","132,446","154,561","145,199","165,050","205,646","236,795","268,122"
+Kenya,Domestic Private Health Expenditure (PVT-D),Million NCU,"29,464","31,906","31,991","36,667","41,416","46,202","51,108","58,664","66,363","74,170","81,872","92,705","103,538","114,371","125,571","136,771","147,971","121,643","132,990","158,827","160,274","180,673"
+Kenya,External Health Expenditure (EXT),Million NCU,"6,982","7,853","9,032","10,995","15,544","15,862","33,031","38,910","45,334","50,627","55,841","56,999","58,156","59,314","59,047","58,779","58,511","71,304","84,823","82,788","82,605","101,386"
+Kenya,Domestic Health Expenditure (DOM) as % of Current Health Expenditure (CHE),0,86,86,84,83,80,81,70,70,70,71,71,74,76,77,80,82,84,79,78,81,83,82
+Kenya,Domestic General Government Health Expenditure (GGHE-D) as % Current Health Expenditure (CHE),0,28,28,29,28,25,26,23,24,26,28,29,31,32,34,37,40,43,43,43,46,49,49
+Kenya,Domestic Private Health Expenditure (PVT-D) as % Current Health Expenditure (CHE),0,59,58,55,56,54,55,47,45,44,43,42,43,43,44,43,42,41,36,35,36,33,33
+Kenya,Out-of-pocket (OOPS) as % of Current Health Expenditure (CHE),0,47,46,44,45,44,45,38,36,33,32,30,31,32,32,29,27,25,23,23,24,23,23
+Kenya,Voluntary Prepayments as % of Current Health Expenditure (CHE),0,4,4,4,4,4,4,4,5,5,6,7,7,8,9,9,10,11,12,9,10,9,9
+Kenya,External Health Expenditure (EXT) as % of Current Health Expenditure (CHE),0,14,14,16,17,20,19,30,30,30,29,29,26,24,23,20,18,16,21,22,19,17,18
+Kenya,Domestic General Government Health Expenditure (GGHE-D) as % Gross Domestic Product (GDP),0,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+Kenya,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),0,7,7,7,7,7,7,7,7,7,7,7,8,7,7,8,8,8,7,7,8,9,9
+Kenya,Domestic General Government Health Expenditure (GGHE-D) per Capita in US$,0,6,6,6,7,7,8,9,12,14,15,17,18,21,23,27,29,32,29,33,40,43,46
+Kenya,Domestic Private Health Expenditure (PVT-D) per Capita in US$,0,13,13,12,14,15,17,19,23,24,24,25,24,28,30,31,30,30,24,26,31,29,31
+Kenya,Out-of-Pocket Expenditure (OOPS) per Capita in US$,0,10,10,10,12,12,14,16,18,19,17,18,18,20,22,21,19,19,16,18,21,20,22
+Kenya,External Health Expenditure (EXT) per Capita in US$,0,3,3,3,4,6,6,12,15,17,16,17,15,16,15,15,13,12,14,17,16,15,17
+Kenya,Government Subsidy to Social Health Insurance (TRAN) as % of Social Health Insurance (SHI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,92,89,90,91,91
+Kenya,Compulsory Financing Arrangements (CFA) as % of Current Health Expenditure (CHE),0,38,39,40,37,34,33,27,28,29,29,30,33,36,38,43,46,49,45,49,47,55,57
+Kenya,Government Financing Arrangements (GFA) as % of Currrent Health Expenditure (CHE),0,34,35,36,33,31,30,24,25,25,25,25,29,31,34,37,39,41,34,36,34,40,43
+Kenya,Compulsory Health Insurance (CHI) as % of Current Health Expenditure (CHE),0,4,4,4,4,3,3,2,3,4,4,5,5,5,5,6,7,8,10,12,14,15,15
+Kenya,Social Health Insurance (SHI) as % of Current Health Expenditure (CHE),0,4,4,4,4,3,3,2,3,4,4,5,5,5,5,6,7,8,10,12,14,15,15
+Kenya,Compulsory Private Health Insurance (CHI-PVT) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Voluntary Financing Arrangements (VFA) as % of Current Health Expenditure (CHE),0,62,61,60,63,66,67,73,72,71,71,70,67,64,62,57,54,51,55,51,53,45,43
+Kenya,Voluntary Health Insurance (VHI) as % of Current Health Expenditure (CHE),0,4,4,4,4,4,4,4,5,5,6,7,7,8,9,9,10,11,12,9,10,9,9
+Kenya,Primary Health Care (PHC) Expenditure per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,46,50,55,0,0
+Kenya,Primary Health Care (PHC) Expenditure as % Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,68,66,64,0,0
+Kenya,Domestic General Government Expenditure on PHC per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,17,18,21,0,0
+Kenya,Domestic General Government Expenditure on PHC as % GGHE-D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,58,56,52,0,0
+Kenya,Domestic General Government Expenditure on PHC as % PHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,37,36,38,0,0
+Kenya,External Expenditure on PHC per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,14,16,15,0,0
+Kenya,External Expenditure on PHC as % EXT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,97,94,94,0,0
+Kenya,External Expenditure on PHC as % PHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,30,31,27,0,0
+Kenya,PHC (government and donors) as % of GDP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0
+Kenya,Domestic Private Expenditure on PHC per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,15,16,19,0,0
+Kenya,Domestic Private Expenditure on PHC as % PVTD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,63,62,63,0,0
+Kenya,Domestic Private Expenditure on PHC as % PHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,33,33,35,0,0
+Kenya,Expenditure on Immunization Programmes as % Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Kenya,Domestic General Government Expenditure on Immunization Programmes as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,External sources of funding on Immunization Programmes as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,0,0
+Kenya,Expenditure on Infectious and Parasitic Diseases as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,53,51,0,0
+Kenya,Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,22,19,0,0
+Kenya,Expenditure on Tuberculosis (TB) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0,0
+Kenya,Expenditure on Malaria as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7,0,0
+Kenya,Expenditure on Neglected Tropical Diseases (NTDs) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Expenditure on Reproductive Health as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,19,20,0,0
+Kenya,Expenditure on Maternal Conditions as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,13,14,0,0
+Kenya,Expenditure on Perinatal Conditions as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0
+Kenya,Expenditure on Contraceptive Management (Family Planning) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,0,0
+Kenya,Expenditure on Nutritional Deficiencies as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,0,0
+Kenya,Expenditure on Noncommunicable Diseases (NCDs) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,12,0,0
+Kenya,Expenditure on Injuries as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0
+Kenya,Expenditure on other and unspecified diseases/conditions (n.e.c.) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,9,0,0
+Kenya,Domestic General Government Expenditure on Infectious and Parasitic Diseases as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,47,44,0,0
+Kenya,Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,14,10,0,0
+Kenya,Domestic General Government Expenditure on Tuberculosis (TB) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0
+Kenya,Domestic General Government Expenditure on Malaria as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,6,0,0
+Kenya,Domestic General Government Expenditure on Reproductive Health as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,17,20,0,0
+Kenya,Domestic General Government Expenditure on Maternal Conditions as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,13,15,0,0
+Kenya,Domestic General Government Expenditure on Perinatal Conditions as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,0
+Kenya,Domestic General Government Expenditure on Contraceptive Management (Family Planning) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0
+Kenya,Domestic General Government Expenditure on Nutritional Deficiencies as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0
+Kenya,Domestic General Government Expenditure on Noncommunicable Diseases (NCDs) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,14,15,0,0
+Kenya,Domestic General Government Expenditure on Injuries as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,0,0
+Kenya,Domestic General Government Expenditure on other and unspecified diseases/conditions (n.e.c.) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,14,0,0
+Kenya,External sources of funding on Infectious and Parasitic Diseases as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,80,81,0,0
+Kenya,External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,60,68,0,0
+Kenya,External sources of funding on Tuberculosis (TB) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,3,0,0
+Kenya,External sources of funding on Malaria as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,5,0,0
+Kenya,External sources of funding on Neglected Tropical Diseases (NTDs) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,External sources of funding on Reproductive Health as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,8,0,0
+Kenya,External sources of funding on Maternal Conditions as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Kenya,External sources of funding on Perinatal Conditions as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,External sources of funding on Contraceptive Management (Family Planning) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Kenya,External sources of funding on Nutritional Deficiencies as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0,0
+Kenya,External sources of funding on Noncommunicable Diseases (NCDs) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,2,0,0
+Kenya,External sources of funding on Injuries as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,External sources of funding on other and unspecified diseases/conditions (n.e.c.) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,7,0,0
+Kenya,General Government Expenditure (GGE) as % Gross Domestic Product (GDP),0,14,15,16,16,15,16,17,18,19,20,22,20,22,23,23,24,25,25,24,24,25,24
+Kenya,Gross Domestic Product (GDP) per Capita in US$,0,590,588,581,633,655,734,803,965,"1,048","1,049","1,094","1,099","1,290","1,377","1,490","1,497","1,562","1,676","1,846","1,970","1,936","2,082"
+Kenya,Current health expenditure by revenues of health care financing schemes,Million NCU,"50,303","55,315","57,650","65,929","76,443","84,325","109,366","129,018","150,221","172,618","193,858","216,539","239,220","261,902","294,949","327,996","361,044","338,146","382,862","447,260","479,674","550,182"
+Kenya,Transfers from government domestic revenue (allocated to health purposes),Million NCU,"11,927","13,390","14,311","15,872","17,008","19,708","22,594","27,255","32,782","40,523","47,292","56,983","66,675","76,366","92,938","109,511","126,731","142,273","160,046","199,335","230,082","260,829"
+Kenya,Internal transfers and grants,Million NCU,"11,927","13,390","14,311","15,872","17,008","19,708","22,594","27,255","32,782","40,523","47,292","56,983","66,675","76,366","92,938","109,511","126,083","103,954","117,485","137,113","158,262","179,411"
+Kenya,Transfers by government on behalf of specific groups,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,648,"31,903","42,561","55,442","63,994","72,546"
+Kenya,Subsidies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Other transfers from government domestic revenue,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"6,417",0,"6,780","7,826","8,872"
+Kenya,Transfers distributed by government from foreign origin,Million NCU,"5,386","5,946","6,252","6,148","6,563","5,417","4,082","5,009","5,070","2,917","4,606","5,107","8,479","12,955","15,742","19,634","23,526","12,010","21,443","13,101","33,736","56,001"
+Kenya,Social insurance contributions,Million NCU,"1,929","2,166","2,315","2,395","2,474","2,553","2,633","4,188","5,743","7,298","8,853","9,852","10,852","11,851","17,393","22,936","27,830","2,926","5,004","6,311","6,713","7,293"
+Kenya,"Compulsory prepayment (Other, and unspecified, than FS.3)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Voluntary prepayment,Million NCU,"2,043","2,212","2,218","2,626","3,034","3,442","3,849","6,042","8,234","10,426","12,619","15,996","19,373","22,750","28,005","33,260","38,515","40,890","33,625","43,749","44,733","50,424"
+Kenya,Other domestic revenues n.e.c.,Million NCU,"27,421","29,694","29,773","34,041","38,382","42,761","47,258","52,623","58,129","63,744","69,253","76,709","84,165","91,621","97,566","103,511","109,456","80,754","99,365","112,913","115,541","130,249"
+Kenya,Other revenues from households n.e.c.,Million NCU,"23,538","25,489","25,557","29,675","33,793","37,912","42,030","46,149","50,267","54,385","58,504","67,054","75,604","84,154","86,189","88,224","90,260","78,722","89,456","108,683","111,126","125,266"
+Kenya,Other revenues from corporations n.e.c.,Million NCU,"2,097","2,270","2,277","2,286","2,296","2,305","2,315","3,169","4,023","4,877","5,731","3,978","2,225",472,"3,697","6,921","10,146","1,480","9,302","3,736","3,911","4,415"
+Kenya,Other revenues from NPISH n.e.c.,Million NCU,"1,786","1,934","1,939","2,080","2,293","2,544","2,913","3,305","3,839","4,482","5,019","5,677","6,336","6,995","7,680","8,365","9,050",551,607,493,504,568
+Kenya,Unspecified other domestic revenues (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Kenya,Direct foreign transfers,Million NCU,"1,597","1,907","2,780","4,848","8,981","10,446","28,949","33,902","40,264","47,710","51,234","51,891","49,677","46,359","43,304","39,145","34,986","59,294","63,380","69,687","48,868","45,386"
+Kenya,Unspecified revenues of health care financing schemes (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,164",0,0
+Kenya,Current health expenditure by financing schemes,Million NCU,"50,303","55,315","57,650","65,929","76,443","84,325","109,366","129,018","150,221","172,618","193,858","216,539","239,220","261,902","294,949","327,996","361,044","338,146","382,862","447,260","479,674","550,182"
+Kenya,Government schemes and compulsory contributory health care financing schemes,Million NCU,"19,242","21,502","22,879","24,414","26,046","27,677","29,309","36,452","43,595","50,738","57,881","71,943","86,005","100,067","126,074","152,080","178,087","150,792","186,493","211,967","262,705","315,250"
+Kenya,Government schemes,Million NCU,"17,312","19,336","20,563","22,019","23,572","25,124","26,676","32,264","37,852","43,440","49,028","62,091","75,153","88,216","108,681","129,145","149,609","115,964","138,928","150,214","191,998","235,412"
+Kenya,Compulsory contributory health insurance schemes,Million NCU,"1,929","2,166","2,315","2,395","2,474","2,553","2,633","4,188","5,743","7,298","8,853","9,852","10,852","11,851","17,393","22,936","28,478","34,828","47,565","61,753","70,707","79,839"
+Kenya,Social health insurance schemes,Million NCU,"1,929","2,166","2,315","2,395","2,474","2,553","2,633","4,188","5,743","7,298","8,853","9,852","10,852","11,851","17,393","22,936","28,478","34,828","47,565","61,753","70,707","79,839"
+Kenya,Compulsory private insurance schemes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Compulsory Medical Saving Accounts (CMSA),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Voluntary health care payment schemes,Million NCU,"7,523","8,324","9,215","11,839","16,604","18,736","38,027","46,417","56,360","67,494","77,474","77,542","77,611","77,680","82,686","87,691","92,697","108,631","106,914","126,610","105,842","109,666"
+Kenya,Voluntary health insurance schemes,Million NCU,"2,043","2,212","2,218","2,626","3,034","3,442","3,849","6,042","8,234","10,426","12,619","15,996","19,373","22,750","28,005","33,260","38,515","40,890","33,625","43,749","44,733","50,424"
+Kenya,NPISH financing schemes (including development agencies),Million NCU,"3,383","3,841","4,720","6,927","11,274","12,989","31,863","36,148","41,985","49,015","54,889","52,733","50,577","48,420","46,959","45,497","44,036","66,262","63,987","79,125","57,199","54,826"
+Kenya,Enterprise financing schemes,Million NCU,"2,097","2,270","2,277","2,286","2,296","2,305","2,315","4,227","6,140","8,053","9,966","8,814","7,662","6,510","7,722","8,934","10,146","1,480","9,302","3,736","3,911","4,415"
+Kenya,Household out-of-pocket payments (OOPS),Million NCU,"23,538","25,489","25,557","29,675","33,793","37,912","42,030","46,149","50,267","54,385","58,504","67,054","75,604","84,154","86,189","88,224","90,260","78,722","89,456","108,683","111,126","125,266"
+Kenya,Current health expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"361,044","338,146","382,862","447,260",0,0
+Kenya,Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"256,280","234,207","250,874","298,433",0,0
+Kenya,Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"102,133","89,744","100,968","128,545",0,0
+Kenya,Day curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,356",0,0,0
+Kenya,Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"154,053","144,348","146,486","168,997",0,0
+Kenya,General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"153,878","144,177","145,944","165,518",0,0
+Kenya,Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,13,0,0
+Kenya,Specialised outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,172,169,542,"3,458",0,0
+Kenya,Unspecified outpatient curative care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0
+Kenya,Home-based curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,115,64,890,0,0
+Kenya,Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4,339","3,898","4,103","4,781",0,0
+Kenya,Ancillary services (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4,157","3,711","4,406","5,223",0,0
+Kenya,Medical goods (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,970","4,945","5,432","6,343",0,0
+Kenya,Pharmaceuticals and Other medical durable goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,967","4,941","5,432","6,343",0,0
+Kenya,Unspecified medical goods (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0
+Kenya,Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"43,895","48,108","69,254","72,213",0,0
+Kenya,"Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"8,057","9,804","14,282","16,866",0,0
+Kenya,Immunization Programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,092","1,259","2,922","2,997",0,0
+Kenya,Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,108,103,76,0,0
+Kenya,Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"15,392","15,225","17,780","21,039",0,0
+Kenya,Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,366","2,475","5,566","16,577",0,0
+Kenya,Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,911","1,796",0,0,0,0
+Kenya,Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"14,983","17,441","28,602","14,658",0,0
+Kenya,"Governance, and health system and financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"46,402","43,277","43,305","52,371",0,0
+Kenya,Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,646","3,224","1,956","6,115",0,0
+Kenya,Administration of health financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"43,756","40,052","39,463","46,058",0,0
+Kenya,"Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,887",197,0,0
+Kenya,Other health care services not elsewhere classified (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,488","7,897",0,0
+Kenya,Domestic general government health expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"154,561","145,199","165,050","205,646",0,0
+Kenya,Domestic General Government Expenditure on Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"99,612","93,578","106,010","135,682",0,0
+Kenya,Domestic General Government Expenditure on Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"56,886","53,440","60,651","83,120",0,0
+Kenya,Domestic General Government Expenditure on Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"42,726","40,138","45,359","52,562",0,0
+Kenya,Domestic General Government Expenditure on General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"42,726","40,138","45,359","52,555",0,0
+Kenya,Domestic General Government Expenditure on Outpatient curative care n.e.c.,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0
+Kenya,Domestic General Government Expenditure on Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+Kenya,Domestic General Government Expenditure on Medical goods (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,48,0,0
+Kenya,Domestic General Government Expenditure on Pharmaceuticals and Other medical durable goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,0,48,0,0
+Kenya,Domestic General Government Expenditure on Unspecified medical goods (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic General Government Expenditure on Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"18,306","17,197","18,587","21,184",0,0
+Kenya,"Domestic General Government Expenditure on Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,47,9,199,0,0
+Kenya,Domestic General Government Expenditure on Immunization Programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256,241,290,289,0,0
+Kenya,Domestic General Government Expenditure on Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,5,0,0
+Kenya,Domestic General Government Expenditure on Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"12,631","11,866","14,337","16,875",0,0
+Kenya,Domestic General Government Expenditure on Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,532,500,"1,803",135,0,0
+Kenya,Domestic General Government Expenditure on Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,911","1,796",0,0,0,0
+Kenya,Domestic General Government Expenditure on Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,920","2,743","2,148","3,682",0,0
+Kenya,"Domestic General Government Expenditure on Governance, health system & financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"36,634","34,415","34,965","41,865",0,0
+Kenya,Domestic General Government Expenditure on Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,388,"1,219",0,0
+Kenya,Domestic General Government Expenditure on Administration of health financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"36,634","34,415","34,577","40,646",0,0
+Kenya,"Domestic General Government Expenditure on Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic General Government Expenditure on Other health care services (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,488","6,865",0,0
+Kenya,External health expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"58,511","71,304","84,823","82,788",0,0
+Kenya,External Expenditure on Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"29,555","36,017","29,953","26,609",0,0
+Kenya,External Expenditure on Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,271,375,"1,701",0,0
+Kenya,External Expenditure on Day curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,356",0,0,0
+Kenya,External Expenditure on Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"29,238","35,631","26,159","24,018",0,0
+Kenya,External Expenditure on General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"29,152","35,525","26,100","23,274",0,0
+Kenya,External Expenditure on Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0
+Kenya,External Expenditure on Specialised outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,106,59,730,0,0
+Kenya,External Expenditure on Home-based curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,115,64,890,0,0
+Kenya,External Expenditure on Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,328,400,183,17,0,0
+Kenya,External Expenditure on Ancillary services (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,247,301,584,590,0,0
+Kenya,External Expenditure on Medical goods (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,11,0,0,0
+Kenya,External Expenditure on Pharmaceuticals and Other medical durable goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0
+Kenya,External Expenditure on Unspecified medical goods (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0
+Kenya,External Expenditure on Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"25,015","30,484","50,007","49,500",0,0
+Kenya,"External Expenditure on Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"8,006","9,757","14,200","16,634",0,0
+Kenya,External sources of funding on Immunization Programmes ,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,835,"1,018","2,632","2,707",0,0
+Kenya,External Expenditure on Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,95,93,71,0,0
+Kenya,External Expenditure on Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,750","3,351","3,441","4,163",0,0
+Kenya,External Expenditure on Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,288","1,569","3,265","14,953",0,0
+Kenya,External Expenditure on Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"12,057","14,693","26,376","10,972",0,0
+Kenya,"External Expenditure on Governance, health system & financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,363","4,098","4,084","5,040",0,0
+Kenya,External Expenditure on Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,646","3,224","1,568","4,843",0,0
+Kenya,External Expenditure on Administration of health financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,718,874,630,0,0,0
+Kenya,"External Expenditure on Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,887",197,0,0
+Kenya,External Expenditure on Other health care services (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,032",0,0
+Kenya,Domestic Private Health Expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"147,971","121,643","132,990","158,827",0,0
+Kenya,Domestic Private Expenditure on Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"127,113","104,612","114,911","136,142",0,0
+Kenya,Domestic Private Expenditure on Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"45,025","36,033","39,942","43,724",0,0
+Kenya,Domestic Private Expenditure on Day curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic Private Expenditure on Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"82,088","68,579","74,969","92,418",0,0
+Kenya,Domestic Private Expenditure on General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"82,000","68,514","74,485","89,690",0,0
+Kenya,Domestic Private Expenditure on Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0
+Kenya,Domestic Private Expenditure on Specialised outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,63,483,"2,728",0,0
+Kenya,Domestic Private Expenditure on Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4,010","3,497","3,920","4,763",0,0
+Kenya,Domestic Private Expenditure on Ancillary services (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,910","3,410","3,822","4,633",0,0
+Kenya,Domestic Private Expenditure on Medical goods (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,959","4,934","5,421","6,295",0,0
+Kenya,Domestic Private Expenditure on Pharmaceuticals and Other medical durable goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,959","4,934","5,421","6,295",0,0
+Kenya,Domestic Private Expenditure on Unspecified medical goods (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic Private Expenditure on Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,574,427,660,"1,529",0,0
+Kenya,"Domestic Private Expenditure on Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,33,0,0
+Kenya,Domestic Private Expenditure on Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,10,0,0,0
+Kenya,Domestic Private Expenditure on Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,2,2,0,0
+Kenya,Domestic Private Expenditure on Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,546,406,498,"1,489",0,0
+Kenya,Domestic Private Expenditure on Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic Private Expenditure on Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,77,4,0,0
+Kenya,"Domestic Private Expenditure on Governance, health system & financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"6,405","4,763","4,256","5,466",0,0
+Kenya,Domestic Private Expenditure on Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,0
+Kenya,Domestic Private Expenditure on Administration of health financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"6,404","4,763","4,256","5,412",0,0
+Kenya,"Domestic Private Expenditure on Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic Private Expenditure on Other health care services (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Current health expenditure by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"338,146","382,862","447,260",0,0
+Kenya,Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"185,076","203,460","226,247",0,0
+Kenya,HIV/AIDS and Other Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"78,525","84,512","84,130",0,0
+Kenya,Tuberculosis (TB),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"7,627","10,553","8,725",0,0
+Kenya,Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"23,909","28,658","32,379",0,0
+Kenya,Neglected Tropical Diseases (NTDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,42,46,0,0
+Kenya,Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"54,033","73,393","91,556",0,0
+Kenya,Maternal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"40,752","48,079","62,010",0,0
+Kenya,Perinatal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,727","7,932","10,597",0,0
+Kenya,Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"7,361","9,671","11,466",0,0
+Kenya,Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193,"7,710","7,484",0,0
+Kenya,Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"17,927","17,844","21,577",0,0
+Kenya,Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"42,046","45,461","52,657",0,0
+Kenya,Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"11,104","12,411","15,001",0,0
+Kenya,Other and unspecified Diseases and Conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"27,960","30,293","40,221",0,0
+Kenya,Domestic general government health expenditure by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"145,199","165,050","205,646",0,0
+Kenya,Domestic General Government Expenditure on Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"70,274","78,345","90,928",0,0
+Kenya,Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"17,692","22,643","20,971",0,0
+Kenya,Domestic General Government Expenditure on Tuberculosis (TB),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,198","3,223","4,433",0,0
+Kenya,Domestic General Government Expenditure on Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"9,677","10,323","13,304",0,0
+Kenya,Domestic General Government Expenditure on Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"19,508","28,399","40,429",0,0
+Kenya,Domestic General Government Expenditure on Maternal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"15,142","20,984","29,997",0,0
+Kenya,Domestic General Government Expenditure on Perinatal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,140","4,080","5,978",0,0
+Kenya,Domestic General Government Expenditure on Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,227","3,335","4,449",0,0
+Kenya,Domestic General Government Expenditure on Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+Kenya,Domestic General Government Expenditure on Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,056","4,293","5,819",0,0
+Kenya,Domestic General Government Expenditure on Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"23,046","23,241","31,722",0,0
+Kenya,Domestic General Government Expenditure on Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,709","6,497","8,081",0,0
+Kenya,Domestic General Government Expenditure on other and unspecified Diseases and Conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"21,605","24,275","28,668",0,0
+Kenya,External sources of funding by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"71,304","84,823","82,788",0,0
+Kenya,External sources of funding on Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"62,100","68,071","67,110",0,0
+Kenya,External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"55,605","50,793","56,564",0,0
+Kenya,External sources of funding on Tuberculosis (TB),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,739","5,149","2,118",0,0
+Kenya,External sources of funding on Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,648","7,675","4,022",0,0
+Kenya,External sources of funding on Neglected Tropical Diseases (NTDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,41,46,0,0
+Kenya,External sources of funding on Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,455","9,133","6,942",0,0
+Kenya,External sources of funding on Maternal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,059",186,"1,142",0,0
+Kenya,External sources of funding on Perinatal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,29,0,0
+Kenya,External sources of funding on Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,203,"1,236",624,0,0
+Kenya,External sources of funding on Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193,"7,705","5,147",0,0
+Kenya,External sources of funding on Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,756","2,255","1,334",0,0
+Kenya,External sources of funding on Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,707","3,748","1,919",0,0
+Kenya,External sources of funding on Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142,51,0,0
+Kenya,External sources of funding on other and unspecified Diseases and Conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2,286","1,474","5,432",0,0
+Kenya,Domestic Private Health expenditure by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"121,643","132,990","158,827",0,0
+Kenya,Domestic Private Expenditure on Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"52,703","57,044","68,210",0,0
+Kenya,Domestic Private Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,228","11,076","6,595",0,0
+Kenya,Domestic Private Expenditure on Tuberculosis (TB),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,690","2,181","2,175",0,0
+Kenya,Domestic Private Expenditure on Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"11,584","10,660","15,054",0,0
+Kenya,Domestic Private Expenditure on Neglected Tropical Diseases (NTDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenya,Domestic Private Expenditure on Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"33,070","35,860","44,185",0,0
+Kenya,Domestic Private Expenditure on Maternal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"24,551","26,910","30,871",0,0
+Kenya,Domestic Private Expenditure on Perinatal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,587","3,846","4,590",0,0
+Kenya,Domestic Private Expenditure on Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4,932","5,100","6,393",0,0
+Kenya,Domestic Private Expenditure on Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,"2,332",0,0
+Kenya,Domestic Private Expenditure on Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"11,114","11,297","14,424",0,0
+Kenya,Domestic Private Expenditure on Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"15,293","18,472","19,017",0,0
+Kenya,Domestic Private Expenditure on Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,395","5,772","6,869",0,0
+Kenya,Domestic Private Expenditure on other and unspecified diseases/conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4,069","4,545","6,122",0,0
+Kenya,Less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"110,943","127,684","150,702",0,0
+Kenya,Domestic General Government Health Expenditure in the less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"57,469","65,824","79,833",0,0
+Kenya,External sources of funding in the less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,034","8,992","8,820",0,0
+Kenya,Domestic Private Expenditure in the less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"48,440","52,868","62,050",0,0
+Kenya,Current health expenditure by health care providers,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"361,044","338,146","382,862","447,260",0,0
+Kenya,Hospitals,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"171,475","160,600","172,912","219,237",0,0
+Kenya,General hospitals,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"169,236","158,503","171,208","216,311",0,0
+Kenya,Mental health hospitals,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,714,668,677,21,0,0
+Kenya,Specialised hospitals (Other than mental health hospitals),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,525","1,428","1,027","2,906",0,0
+Kenya,Residential long-term care facilities,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,765","3,526","3,941","4,785",0,0
+Kenya,Long-term nursing care facilities,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,734","3,497","3,919","4,763",0,0
+Kenya,Mental health and substance abuse facilities,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,29,22,22,0,0
+Kenya,Other residential long-term care facilities,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Kenya,Providers of ambulatory health care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"88,738","83,110","93,333","106,087",0,0
+Kenya,Medical practices,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,70,10,15,0,0
+Kenya,Other health care practitioners,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"7,815","7,319","11,091","15,400",0,0
+Kenya,Ambulatory health care centres,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"80,828","75,702","81,864","90,401",0,0
+Kenya,Providers of home health care services,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,18,369,271,0,0
+Kenya,Providers of ancillary services,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4,162","3,898","4,818","4,938",0,0
+Kenya,Providers of patient transportation and emergency rescue,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Kenya,Medical and diagnostic laboratories,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3,958","3,707","4,818","4,938",0,0
+Kenya,Other providers of ancillary services,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,203,190,0,0,0,0
+Kenya,Retailers and Other providers of medical goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,389","5,048","5,490","6,454",0,0
+Kenya,Pharmacies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,12,"1,420",274,0,0
+Kenya,Retail sellers and Other suppliers of durable medical goods and medical appliances,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,377","5,036","4,070","6,180",0,0
+Kenya,Providers of preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"39,978","37,442","51,200","40,125",0,0
+Kenya,Providers of health care system administration and financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"45,661","42,765","43,524","52,221",0,0
+Kenya,Government health administration agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"29,915","28,018","27,839","33,395",0,0
+Kenya,Social health insurance agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"8,866","8,304","8,240","12,655",0,0
+Kenya,Private health insurance administration agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"5,263","4,930","4,439","5,590",0,0
+Kenya,Other administration agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,616","1,514","3,006",581,0,0
+Kenya,Rest of economy,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,831","1,714","7,593","13,322",0,0
+Kenya,Households as providers of home health care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,102,63,88,0,0
+Kenya,All Other industries as secondary providers of health care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,722","1,612","7,530","13,234",0,0
+Kenya,Rest of the world,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,43,52,69,0,0
+Kenya,Unspecified health care providers (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0
+Kenya,Capital health expenditure,Million NCU,0,0,0,0,0,0,0,0,0,0,"6,765",0,0,"19,315",0,0,"20,057","48,327","49,329","50,435",0,0
+Kenya,Capital Health Expenditure (Domestic Public),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"17,676","40,520","45,707","47,127",0,0
+Kenya,Capital Health Expenditure (External),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,879","7,555","3,366","2,740",0,0
+Kenya,Capital Health Expenditure (Domestic Private),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,502,252,256,567,0,0
+Kenya,Gross Domestic Product (GDP),Million NCU,"1,386,839","1,468,877","1,498,605","1,624,373","1,804,406","1,987,651","2,139,104","2,471,104","2,840,257","3,275,642","3,597,630","4,162,514","4,767,191","5,311,322","6,003,835","6,884,317","7,594,064","8,483,396","9,340,307","10,237,730","10,716,034","12,098,202"
+Kenya,Final consumption expenditure of Households and profit institutions serving households (PFC),Million NCU,"870,314","942,437","944,949","1,013,289","1,117,320","1,239,261","1,419,467","1,610,385","1,870,427","2,183,599","2,445,293","2,936,351","3,355,112","3,831,453","4,316,540","4,955,073","5,536,203","6,601,696","7,264,882","7,972,289","8,151,503","9,188,663"
+Kenya,General government expenditure (GGE),Million NCU,"195,461","219,443","234,542","260,116","278,742","322,976","370,286","446,675","537,244","664,108","775,050","837,428","1,053,448","1,233,845","1,406,390","1,640,308","1,924,671","2,135,178","2,283,901","2,498,002","2,657,123","2,886,740"
+Kenya,Purchasing Power Parity (NCU per Int$),0,22,22,21,22,23,24,25,26,29,33,33,35,38,38,38,39,39,40,41,42,43,44
+Kenya,Exchange Rate  (NCU per US$),0,76,79,79,76,79,76,72,67,69,77,79,89,85,86,88,98,102,103,101,102,106,110
+Kenya,Gross domestic product - Price index (2021=100),0,28,28,29,30,32,34,34,37,42,47,48,53,58,62,67,73,78,84,87,91,95,100
+Kenya,Population (in thousands),0,"30,852","31,800","32,780","33,767","34,792","35,843","36,925","38,037","39,187","40,364","41,518","42,635","43,726","44,792","45,832","46,851","47,895","48,948","49,953","50,951","51,986","53,006"
