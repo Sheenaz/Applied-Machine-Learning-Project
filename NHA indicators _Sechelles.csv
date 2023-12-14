@@ -1,0 +1,304 @@
+﻿Countries,Indicators,,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+,,,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value,Value
+Seychelles,Current Health Expenditure (CHE) as % Gross Domestic Product (GDP),0,5,5,4,5,5,5,4,4,4,4,5,4,5,4,5,4,5,5,5,5,7,5
+Seychelles,Current Health Expenditure (CHE) per Capita in US$,0,354,384,368,429,486,500,513,451,390,330,472,484,600,583,650,624,736,737,785,770,782,718
+Seychelles,Health Capital Expenditure (HK) % Gross Domestic Product (GDP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+Seychelles,Capital Health Expenditure (Domestic Public) as % Gross Domestic Product (GDP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Capital Health Expenditure (External) as % Gross Domestic Product (GDP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+Seychelles,Current Health Expenditure (CHE),Million NCU,162,183,166,194,226,236,247,267,331,408,527,562,783,680,812,824,985,"1,024","1,126","1,127","1,453","1,294"
+Seychelles,Domestic General Government Health Expenditure (GGHE-D),Million NCU,133,137,139,158,176,183,193,211,220,275,364,380,584,513,563,595,681,748,826,826,"1,136",990
+Seychelles,Domestic Private Health Expenditure (PVT-D),Million NCU,29,45,26,34,45,51,52,55,110,131,151,141,186,146,245,226,265,270,296,302,313,304
+Seychelles,External Health Expenditure (EXT),Million NCU,0,0,1,2,6,2,2,1,2,2,12,42,14,21,4,3,39,6,4,0,5,0
+Seychelles,Domestic Health Expenditure (DOM) as % of Current Health Expenditure (CHE),0,100,100,99,99,97,99,99,99,100,100,98,93,98,97,100,100,96,99,100,100,100,100
+Seychelles,Domestic General Government Health Expenditure (GGHE-D) as % Current Health Expenditure (CHE),0,82,75,84,81,78,78,78,79,66,67,69,68,75,75,69,72,69,73,73,73,78,77
+Seychelles,Domestic Private Health Expenditure (PVT-D) as % Current Health Expenditure (CHE),0,18,25,16,18,20,22,21,20,33,32,29,25,24,21,30,27,27,26,26,27,22,23
+Seychelles,Out-of-pocket (OOPS) as % of Current Health Expenditure (CHE),0,18,25,16,18,20,22,21,20,33,32,24,25,20,20,30,27,25,25,25,25,20,22
+Seychelles,Voluntary Prepayments as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+Seychelles,External Health Expenditure (EXT) as % of Current Health Expenditure (CHE),0,0,0,1,1,3,1,1,1,0,0,2,7,2,3,0,0,4,1,0,0,0,0
+Seychelles,Domestic General Government Health Expenditure (GGHE-D) as % Gross Domestic Product (GDP),0,4,4,4,4,4,4,3,3,2,2,3,3,4,3,3,3,3,3,4,3,5,4
+Seychelles,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),0,7,8,6,9,10,9,8,7,9,7,9,8,10,8,10,10,10,10,10,10,10,10
+Seychelles,Domestic General Government Health Expenditure (GGHE-D) per Capita in US$,0,291,288,308,350,378,387,402,356,259,222,326,327,447,440,451,450,509,538,576,564,611,550
+Seychelles,Domestic Private Health Expenditure (PVT-D) per Capita in US$,0,63,95,58,75,96,109,108,92,129,106,136,121,143,125,196,171,198,194,206,206,168,169
+Seychelles,Out-of-Pocket Expenditure (OOPS) per Capita in US$,0,63,95,58,75,96,109,108,92,129,105,113,121,123,118,195,171,186,181,193,190,158,158
+Seychelles,External Health Expenditure (EXT) per Capita in US$,0,0,1,3,4,12,3,4,2,2,1,11,36,10,18,3,2,29,4,3,0,2,0
+Seychelles,Compulsory Financing Arrangements (CFA) as % of Current Health Expenditure (CHE),0,82,75,84,81,78,78,79,79,66,68,71,75,75,75,69,72,72,73,73,73,78,77
+Seychelles,Government Financing Arrangements (GFA) as % of Currrent Health Expenditure (CHE),0,82,75,84,81,78,78,79,79,66,68,71,75,75,75,69,72,72,73,73,73,78,77
+Seychelles,Compulsory Health Insurance (CHI) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Social Health Insurance (SHI) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Compulsory Private Health Insurance (CHI-PVT) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Voluntary Financing Arrangements (VFA) as % of Current Health Expenditure (CHE),0,18,25,16,19,22,22,21,21,34,32,29,25,25,24,31,28,28,27,27,27,22,23
+Seychelles,Voluntary Health Insurance (VHI) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+Seychelles,Rest of the World (RoW) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Primary Health Care (PHC) Expenditure per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,389,432,463,450,0,0
+Seychelles,Primary Health Care (PHC) Expenditure as % Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,59,59,58,0,0
+Seychelles,Domestic General Government Expenditure on PHC per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,287,312,301,0,0
+Seychelles,Domestic General Government Expenditure on PHC as % GGHE-D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,53,54,53,0,0
+Seychelles,Domestic General Government Expenditure on PHC as % PHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,67,67,67,0,0
+Seychelles,External Expenditure on PHC per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,4,3,0,0,0
+Seychelles,External Expenditure on PHC as % EXT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,93,92,0,0,0
+Seychelles,External Expenditure on PHC as % PHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,0,0
+Seychelles,PHC (government and donors) as % of GDP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0
+Seychelles,Domestic Private Expenditure on PHC per Capita in US$,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,143,140,148,149,0,0
+Seychelles,Domestic Private Expenditure on PHC as % PVTD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,72,72,72,0,0
+Seychelles,Domestic Private Expenditure on PHC as % PHC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,33,32,33,0,0
+Seychelles,Expenditure on Immunization Programmes as % Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,0,0
+Seychelles,Domestic General Government Expenditure on Immunization Programmes as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,6,6,0,0
+Seychelles,External sources of funding on Immunization Programmes as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,19,0,0,0
+Seychelles,Expenditure on Infectious and Parasitic Diseases as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,20,20,19,0,0
+Seychelles,Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Seychelles,Expenditure on Malaria as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Expenditure on Neglected Tropical Diseases (NTDs) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Seychelles,Expenditure on Reproductive Health as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,16,16,16,0,0
+Seychelles,Expenditure on Maternal Conditions as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Seychelles,Expenditure on Perinatal Conditions as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Expenditure on Contraceptive Management (Family Planning) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0
+Seychelles,Expenditure on Nutritional Deficiencies as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Expenditure on Noncommunicable Diseases (NCDs) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,47,47,47,0,0
+Seychelles,Expenditure on Injuries as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,10,10,10,0,0
+Seychelles,Expenditure on other and unspecified diseases/conditions (n.e.c.) as % of Current Health Expenditure (CHE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,7,8,0,0
+Seychelles,Domestic General Government Expenditure on Infectious and Parasitic Diseases as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,18,19,18,0,0
+Seychelles,Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0
+Seychelles,Domestic General Government Expenditure on Malaria as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Reproductive Health as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,20,20,20,0,0
+Seychelles,Domestic General Government Expenditure on Contraceptive Management (Family Planning) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0
+Seychelles,Domestic General Government Expenditure on Nutritional Deficiencies as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Noncommunicable Diseases (NCDs) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,50,50,50,0,0
+Seychelles,Domestic General Government Expenditure on Injuries as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,10,10,10,0,0
+Seychelles,Domestic General Government Expenditure on other and unspecified diseases/conditions (n.e.c.) as % of Domestic General Government Expenditure on Health (GGHE-D),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0
+Seychelles,External sources of funding on Infectious and Parasitic Diseases as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,81,80,0,0,0
+Seychelles,External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,18,0,0,0
+Seychelles,External sources of funding on Malaria as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Reproductive Health as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,4,4,0,0,0
+Seychelles,External sources of funding on Perinatal Conditions as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Contraceptive Management (Family Planning) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Nutritional Deficiencies as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Noncommunicable Diseases (NCDs) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,13,13,0,0,0
+Seychelles,External sources of funding on Injuries as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,2,0,0,0
+Seychelles,External sources of funding on other and unspecified diseases/conditions (n.e.c.) as % of External Health Expenditure (EXT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0
+Seychelles,General Government Expenditure (GGE) as % Gross Domestic Product (GDP),0,55,47,56,45,40,39,44,42,27,32,35,36,39,38,33,31,36,34,36,34,50,40
+Seychelles,Gross Domestic Product (GDP) per Capita in US$,0,"7,680","7,658","8,461","8,442","9,907","10,702","11,670","11,702","10,789","9,309","10,496","10,854","11,116","13,733","14,159","14,268","14,826","15,455","15,871","16,137","11,947","13,661"
+Seychelles,Current health expenditure by revenues of health care financing schemes,Million NCU,162,183,166,194,226,236,247,267,331,408,527,562,783,680,812,824,985,"1,024","1,126","1,127","1,453","1,294"
+Seychelles,Transfers from government domestic revenue (allocated to health purposes),Million NCU,133,137,139,158,176,183,193,211,220,275,364,380,584,513,563,595,681,748,826,826,"1,136",990
+Seychelles,Internal transfers and grants,Million NCU,133,137,139,158,176,183,193,211,220,275,364,380,584,513,563,595,681,748,826,826,"1,136",990
+Seychelles,Transfers by government on behalf of specific groups,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Subsidies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Other transfers from government domestic revenue,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Transfers distributed by government from foreign origin,Million NCU,0,0,0,0,0,0,1,1,0,2,10,42,6,0,0,0,31,0,0,0,0,0
+Seychelles,Social insurance contributions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Social insurance contributions from employees,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Social insurance contributions from employers,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Social insurance contributions from self-employed,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Other social insurance contributions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,"Compulsory prepayment (Other, and unspecified, than FS.3)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Voluntary prepayment,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,7,8,8,8,8
+Seychelles,Other domestic revenues n.e.c.,Million NCU,29,45,26,34,45,51,52,55,110,131,151,141,186,142,245,226,258,263,288,289,304,296
+Seychelles,Other revenues from households n.e.c.,Million NCU,29,45,26,34,45,51,52,55,110,130,126,141,160,137,243,226,249,252,277,278,294,284
+Seychelles,Other revenues from corporations n.e.c.,Million NCU,0,0,0,0,0,0,0,0,0,1,26,0,26,5,0,0,8,10,11,11,10,11
+Seychelles,Other revenues from NPISH n.e.c.,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Seychelles,Unspecified other domestic revenues (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Seychelles,Direct foreign transfers,Million NCU,0,0,1,2,6,2,1,0,1,0,2,0,8,21,4,3,8,6,4,0,5,0
+Seychelles,Unspecified revenues of health care financing schemes (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,0,0
+Seychelles,Current health expenditure by financing schemes,Million NCU,162,183,166,194,226,236,247,267,331,408,527,562,783,680,812,824,985,"1,024","1,126","1,127","1,453","1,294"
+Seychelles,Government schemes and compulsory contributory health care financing schemes,Million NCU,133,137,139,158,176,183,194,212,220,277,373,422,590,513,563,595,711,751,826,826,"1,136",990
+Seychelles,Government schemes,Million NCU,133,137,139,158,176,183,194,212,220,277,373,422,590,513,563,595,711,751,826,826,"1,136",990
+Seychelles,Compulsory contributory health insurance schemes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Social health insurance schemes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Compulsory private insurance schemes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Unspecified compulsory contributory health insurance schemes (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Compulsory Medical Saving Accounts (CMSA),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Voluntary health care payment schemes,Million NCU,0,0,1,2,6,2,1,0,1,1,28,0,33,26,6,3,24,21,23,23,23,20
+Seychelles,Voluntary health insurance schemes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,7,8,8,8,8
+Seychelles,NPISH financing schemes (including development agencies),Million NCU,0,0,1,2,6,2,1,0,1,0,2,0,8,21,6,3,9,4,4,4,5,0
+Seychelles,Enterprise financing schemes,Million NCU,0,0,0,0,0,0,0,0,0,1,26,0,26,5,0,0,8,10,11,11,10,11
+Seychelles,Household out-of-pocket payments (OOPS),Million NCU,29,45,26,34,45,51,52,55,110,130,126,141,160,137,243,226,249,252,277,278,294,284
+Seychelles,Rest of the world financing schemes (non-resident),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Unspecified financing schemes (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Seychelles,Current health expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,985,"1,024","1,126","1,127",0,0
+Seychelles,Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,477,564,626,625,0,0
+Seychelles,Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,294,329,326,0,0
+Seychelles,Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142,244,268,270,0,0
+Seychelles,General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,107,119,119,0,0
+Seychelles,Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,27,30,30,0,0
+Seychelles,Specialised outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+Seychelles,Unspecified outpatient curative care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,109,119,121,0,0
+Seychelles,Unspecified curative care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225,26,29,29,0,0
+Seychelles,Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Long-term care (health),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Inpatient long-term care (health),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Ancillary services (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,6,6,7,0,0
+Seychelles,Medical goods (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,65,70,72,0,0
+Seychelles,Pharmaceuticals and Other medical durable goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,56,61,62,0,0
+Seychelles,Therapeutic appliances and Other medical goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,10,10,0,0
+Seychelles,Unspecified medical goods (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,174,204,227,221,0,0
+Seychelles,"Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,40,45,44,0,0
+Seychelles,Immunization Programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,45,50,48,0,0
+Seychelles,Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,32,32,0,0
+Seychelles,Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,23,26,25,0,0
+Seychelles,Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,41,46,45,0,0
+Seychelles,Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Seychelles,Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,25,28,27,0,0
+Seychelles,"Governance, and health system and financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,126,140,138,0,0
+Seychelles,Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,125,140,137,0,0
+Seychelles,Administration of health financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,"Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Other health care services not elsewhere classified (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,56,66,0,0
+Seychelles,Domestic general government health expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,681,748,826,826,0,0
+Seychelles,Domestic General Government Expenditure on Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,281,401,449,443,0,0
+Seychelles,Domestic General Government Expenditure on Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,272,305,300,0,0
+Seychelles,Domestic General Government Expenditure on Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,103,116,114,0,0
+Seychelles,Domestic General Government Expenditure on General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,91,90,0,0
+Seychelles,Domestic General Government Expenditure on Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,24,24,0,0
+Seychelles,Domestic General Government Expenditure on Specialised outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Other curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,224,26,29,28,0,0
+Seychelles,Domestic General Government Expenditure on Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Ancillary services (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,197,220,217,0,0
+Seychelles,"Domestic General Government Expenditure on Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,40,45,44,0,0
+Seychelles,Domestic General Government Expenditure on Immunization Programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,43,49,48,0,0
+Seychelles,Domestic General Government Expenditure on Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,32,31,0,0
+Seychelles,Domestic General Government Expenditure on Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,25,25,0,0
+Seychelles,Domestic General Government Expenditure on Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,39,43,43,0,0
+Seychelles,Domestic General Government Expenditure on Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160,24,27,27,0,0
+Seychelles,"Domestic General Government Expenditure on Governance, health system & financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,124,140,137,0,0
+Seychelles,Domestic General Government Expenditure on Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,124,139,137,0,0
+Seychelles,"Domestic General Government Expenditure on Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Other health care services (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,16,28,0,0
+Seychelles,External health expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,6,4,0,0,0
+Seychelles,External Expenditure on Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Other curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,3,0,0,0
+Seychelles,"External Expenditure on Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,External sources of funding on Immunization Programmes ,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Seychelles,External Expenditure on Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Seychelles,External Expenditure on Healthy condition monitoring programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Seychelles,External Expenditure on Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Seychelles,External Expenditure on Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0
+Seychelles,"External Expenditure on Governance, health system & financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,1,1,0,0,0
+Seychelles,External Expenditure on Governance and Health system administration,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,1,1,0,0,0
+Seychelles,"External Expenditure on Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External Expenditure on Other health care services (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Health Expenditure by Health Care Functions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,265,270,296,302,0,0
+Seychelles,Domestic Private Expenditure on Curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,163,177,182,0,0
+Seychelles,Domestic Private Expenditure on Inpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,22,24,26,0,0
+Seychelles,Domestic Private Expenditure on Outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139,140,153,156,0,0
+Seychelles,Domestic Private Expenditure on General outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,25,27,29,0,0
+Seychelles,Domestic Private Expenditure on Dental outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,6,0,0
+Seychelles,Domestic Private Expenditure on Specialised outpatient curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Outpatient curative care n.e.c.,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106,109,119,121,0,0
+Seychelles,Domestic Private Expenditure on Other curative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Rehabilitative care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Long-term care (health),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Inpatient long-term care (health),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Ancillary services (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,6,7,0,0
+Seychelles,Domestic Private Expenditure on Medical goods (non-specified by function),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,65,70,72,0,0
+Seychelles,Domestic Private Expenditure on Pharmaceuticals and Other medical durable goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,56,61,62,0,0
+Seychelles,Domestic Private Expenditure on Therapeutic appliances and Other medical goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,10,10,0,0
+Seychelles,Domestic Private Expenditure on Unspecified medical goods (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,4,0,0
+Seychelles,"Domestic Private Expenditure on Information, education and counseling (IEC) programmes",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Immunization Programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Early disease detection programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Epidemiological surveillance and risk and disease control programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,0,0
+Seychelles,Domestic Private Expenditure on Preparing for disaster and emergency response programmes,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Seychelles,Domestic Private Expenditure on Unspecified preventive care (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,"Domestic Private Expenditure on Governance, health system & financing administration",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Administration of health financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,"Domestic Private Expenditure on Unspecified governance, and health system and financing administration (n.e.c.)",Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic Private Expenditure on Other health care services (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,39,37,0,0
+Seychelles,Current health expenditure by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,985,"1,024","1,126","1,127",0,0
+Seychelles,Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,191,203,223,220,0,0
+Seychelles,HIV/AIDS and Other Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,12,11,0,0
+Seychelles,Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Neglected Tropical Diseases (NTDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,0,0
+Seychelles,Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,158,160,179,177,0,0
+Seychelles,Maternal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,0,0
+Seychelles,Perinatal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,18,18,0,0
+Seychelles,Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,158,136,152,151,0,0
+Seychelles,Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,0,0
+Seychelles,Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,476,480,534,531,0,0
+Seychelles,Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,99,110,109,0,0
+Seychelles,Other and unspecified Diseases and Conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,78,76,86,0,0
+Seychelles,Domestic general government health expenditure by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,681,748,826,826,0,0
+Seychelles,Domestic General Government Expenditure on Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148,137,153,151,0,0
+Seychelles,Domestic General Government Expenditure on HIV/AIDS and Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,11,11,0,0
+Seychelles,Domestic General Government Expenditure on Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,149,167,165,0,0
+Seychelles,Domestic General Government Expenditure on Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,18,17,0,0
+Seychelles,Domestic General Government Expenditure on Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,134,150,148,0,0
+Seychelles,Domestic General Government Expenditure on Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+Seychelles,Domestic General Government Expenditure on Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,305,371,415,409,0,0
+Seychelles,Domestic General Government Expenditure on Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,76,85,84,0,0
+Seychelles,Domestic General Government Expenditure on other and unspecified Diseases and Conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,4,16,0,0
+Seychelles,External sources of funding by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,6,4,0,0,0
+Seychelles,External sources of funding on Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,3,0,0,0
+Seychelles,External sources of funding on HIV/AIDS and Sexually Transmitted Diseases (STDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Seychelles,External sources of funding on Malaria,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Seychelles,External sources of funding on Perinatal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+Seychelles,External sources of funding on Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,External sources of funding on Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,1,0,0,0
+Seychelles,External sources of funding on Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+Seychelles,External sources of funding on other and unspecified Diseases and Conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Domestic Private Health expenditure by Diseases and Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,265,270,296,302,0,0
+Seychelles,Domestic Private Expenditure on Infectious and Parasitic Diseases,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,61,66,69,0,0
+Seychelles,Domestic Private Expenditure on Neglected Tropical Diseases (NTDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,0,0
+Seychelles,Domestic Private Expenditure on Reproductive Health,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,10,11,12,0,0
+Seychelles,Domestic Private Expenditure on Maternal Conditions,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,0,0
+Seychelles,Domestic Private Expenditure on Contraceptive Management (Family Planning),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Seychelles,Domestic Private Expenditure on Unspecified reproductive health conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,2,2,3,0,0
+Seychelles,Domestic Private Expenditure on Nutritional Deficiencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,0,0
+Seychelles,Domestic Private Expenditure on Noncommunicable Diseases (NCDs),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,109,118,122,0,0
+Seychelles,Domestic Private Expenditure on Injuries,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,23,25,26,0,0
+Seychelles,Domestic Private Expenditure on other and unspecified diseases/conditions (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,63,72,70,0,0
+Seychelles,Less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,113,124,123,0,0
+Seychelles,Domestic General Government Health Expenditure in the less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,86,95,95,0,0
+Seychelles,External sources of funding in the less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0
+Seychelles,Domestic Private Expenditure in the less than five-year-old population (< 5-y),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,26,28,29,0,0
+Seychelles,Current health expenditure by health care providers,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,985,"1,024","1,126","1,127",0,0
+Seychelles,Hospitals,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,382,440,484,485,0,0
+Seychelles,General hospitals,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,317,431,474,475,0,0
+Seychelles,Specialised hospitals (Other than mental health hospitals),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0
+Seychelles,Unspecified hospitals (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,9,10,10,0,0
+Seychelles,Residential long-term care facilities,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Mental health and substance abuse facilities,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Seychelles,Providers of ambulatory health care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,47,52,52,0,0
+Seychelles,Medical practices,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,19,21,21,0,0
+Seychelles,Dental practice,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,6,0,0
+Seychelles,Other health care practitioners,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,22,22,0,0
+Seychelles,Ambulatory health care centres,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,3,3,0,0
+Seychelles,Providers of ancillary services,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,6,6,6,0,0
+Seychelles,Providers of patient transportation and emergency rescue,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Medical and diagnostic laboratories,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,0,0
+Seychelles,Other providers of ancillary services,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,3,3,0,0
+Seychelles,Retailers and Other providers of medical goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,66,73,73,0,0
+Seychelles,Pharmacies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,53,59,59,0,0
+Seychelles,Retail sellers and Other suppliers of durable medical goods and medical appliances,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,13,14,14,0,0
+Seychelles,All Other miscellaneous sellers and Other suppliers of pharmaceuticals and medical goods,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Providers of preventive care,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,190,209,210,0,0
+Seychelles,Providers of health care system administration and financing,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,283,214,236,236,0,0
+Seychelles,Government health administration agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,191,123,136,136,0,0
+Seychelles,Private health insurance administration agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Other administration agencies,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,91,100,100,0,0
+Seychelles,Rest of the world,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,60,66,66,0,0
+Seychelles,Unspecified health care providers (n.e.c.),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Capital health expenditure,Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,54,73,22,40,569,0,0,0,0
+Seychelles,Capital Health Expenditure (Domestic Public),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,29,21,0,0,0,0
+Seychelles,Capital Health Expenditure (External),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,546,0,0,0,0
+Seychelles,Capital Health Expenditure (Domestic Private),Million NCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0
+Seychelles,Gross Domestic Product (GDP),Million NCU,"3,513","3,645","3,822","3,811","4,616","5,055","5,610","6,926","9,147","11,533","11,705","12,609","14,519","16,015","17,688","18,852","19,848","21,474","22,763","23,635","22,211","24,611"
+Seychelles,Final consumption expenditure of Households and profit institutions serving households (PFC),Million NCU,"1,177","2,129","1,220","1,593","2,090","2,408","2,429","2,555","5,133","6,102","5,896","6,586","7,512","6,424","11,389","10,594","11,677","12,584","13,849","13,908","14,696","14,217"
+Seychelles,General government expenditure (GGE),Million NCU,"1,947","1,707","2,153","1,701","1,842","1,970","2,443","2,902","2,469","3,704","4,047","4,582","5,605","6,052","5,785","5,934","7,166","7,374","8,110","8,113","11,155","9,729"
+Seychelles,Purchasing Power Parity (NCU per Int$),0,3,3,3,3,4,4,4,4,6,7,7,7,8,8,8,8,8,8,8,8,8,8
+Seychelles,Exchange Rate  (NCU per US$),0,6,6,5,5,6,6,6,7,9,14,12,12,14,12,13,13,13,14,14,14,18,17
+Seychelles,Gross domestic product - Price index (2021=100),0,26,28,29,31,38,38,39,44,59,75,72,73,81,84,89,89,89,92,95,96,97,100
+Seychelles,Population (in thousands),0,80,81,82,84,85,86,87,88,90,91,92,94,95,97,98,99,101,102,103,104,106,106
